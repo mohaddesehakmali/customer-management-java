@@ -1,0 +1,18 @@
+# Build outputs
+target/
+out/
+*.class
+
+# Local tools and IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+
+# Local customer records; never commit personal data
+data/
+*.db
+*.db.tmp
